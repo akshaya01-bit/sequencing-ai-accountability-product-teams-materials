@@ -1,0 +1,7 @@
+team_id,meeting_id,week,agenda_item_id,sequence_condition,accountability,junior_talk_share,junior_critical_turns,override_ai,psych_safety_score
+T1,M1,1,A1,AI_FIRST,0,0.18,1,0,3.6
+T1,M1,1,A2,HUMAN_FIRST,1,0.32,3,1,4.1
+T1,M2,2,A3,STATUS_QUO,0,0.22,2,0,3.8
+T2,M3,1,A4,AI_FIRST,1,0.15,1,0,3.2
+T2,M3,1,A5,HUMAN_FIRST,1,0.29,2,1,4.3
+T2,M4,2,A6,STATUS_QUO,0,0.21,1,0,3.7

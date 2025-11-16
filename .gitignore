@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+.envrc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data: do NOT commit raw confidential data
+data/raw/
+data/processed/
+
+# OS / editor junk
+.DS_Store
+*.swp
+*.swo

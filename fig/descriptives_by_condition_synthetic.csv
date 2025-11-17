@@ -1,0 +1,5 @@
+sequence_condition,accountability,mean_junior_talk_share,mean_junior_critical_turns,override_rate,mean_psych_safety
+AI_FIRST,0,0.18,1.0,0.0,3.6
+AI_FIRST,1,0.15,1.0,0.0,3.2
+HUMAN_FIRST,1,0.305,2.5,1.0,4.199999999999999
+STATUS_QUO,0,0.215,1.5,0.0,3.75

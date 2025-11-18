@@ -1,0 +1,23 @@
+Run-all synthetic pipeline log
+================================
+Started at (UTC): 2025-11-17T03:01:54.628744
+
+[2025-11-17T03:01:54.629016] Running: python3 code/analysis/generate_synthetic_agenda_data.py
+  -> OK
+
+[2025-11-17T03:01:54.649440] Running: python3 code/analysis/quick_descriptives.py
+  -> OK
+
+[2025-11-17T03:01:54.972523] Running: python3 code/analysis/main_regression_synthetic.py
+  -> OK
+
+[2025-11-17T03:01:55.620387] Running: python3 code/analysis/power_simulation_study1.py
+  -> OK
+
+[2025-11-17T03:01:56.926256] Running: python3 code/ml/generate_synthetic_turns.py
+  -> OK
+
+[2025-11-17T03:01:56.943543] Running: python3 code/ml/train_critical_turn_classifier.py
+  -> OK
+
+Finished at (UTC): 2025-11-17T03:01:57.601166

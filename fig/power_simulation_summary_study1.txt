@@ -1,0 +1,13 @@
+Power simulation summary for Study 1
+====================================
+n_sims: 300
+n_converged: 0
+
+alpha: 0.05
+n_teams: 6
+n_meetings_per_team: 4
+n_items_per_meeting: 5
+
+Estimated power (AI_first main effect): nan
+Estimated power (Human_first main effect): nan
+Estimated power (Human_first x accountability interaction): nan

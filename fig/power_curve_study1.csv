@@ -1,0 +1,2 @@
+n_sims,n_converged,power_AI_first,power_Human_first,power_HumanFirst_Acc,alpha,n_teams,n_meetings_per_team,n_items_per_meeting
+300,0,,,,0.05,6,4,5

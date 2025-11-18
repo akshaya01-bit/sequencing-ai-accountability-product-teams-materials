@@ -1,0 +1,433 @@
+team_id,meeting_id,agenda_item_id,turn_id,turn_position,speaker_role,is_junior,text,is_critical,ai_suggestion_visible,sequence_condition,accountability
+T1,T1_M1,T1_M1_A1,1,1,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A1,2,2,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A1,3,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A1,4,4,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A1,5,5,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A1,6,6,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A2,7,1,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A2,8,2,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A2,9,3,director,0,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with no accountability.,1,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A2,10,4,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A2,11,5,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A2,12,6,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A3,13,1,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A3,14,2,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A3,15,3,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A3,16,4,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A3,17,5,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M1,T1_M1_A3,18,6,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M2,T1_M2_A1,19,1,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A1,20,2,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A1,21,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A1,22,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A1,23,5,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A1,24,6,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A2,25,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A2,26,2,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A2,27,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A2,28,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A2,29,5,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A2,30,6,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A3,31,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A3,32,2,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A3,33,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A3,34,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A3,35,5,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M2,T1_M2_A3,36,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T1,T1_M3,T1_M3_A1,37,1,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A1,38,2,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A1,39,3,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A1,40,4,director,0,Synthetic utterance raising a concern about trade-offs and risks under STATUS_QUO with no accountability.,1,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A1,41,5,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A1,42,6,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A2,43,1,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A2,44,2,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A2,45,3,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A2,46,4,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A2,47,5,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under STATUS_QUO with no accountability.,1,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A2,48,6,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A3,49,1,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A3,50,2,director,0,Synthetic utterance raising a concern about trade-offs and risks under STATUS_QUO with no accountability.,1,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A3,51,3,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A3,52,4,director,0,Synthetic utterance raising a concern about trade-offs and risks under STATUS_QUO with no accountability.,1,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A3,53,5,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M3,T1_M3_A3,54,6,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T1,T1_M4,T1_M4_A1,55,1,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A1,56,2,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A1,57,3,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A1,58,4,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A1,59,5,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A1,60,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A2,61,1,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A2,62,2,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A2,63,3,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A2,64,4,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A2,65,5,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A2,66,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A3,67,1,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A3,68,2,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A3,69,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A3,70,4,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A3,71,5,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T1,T1_M4,T1_M4_A3,72,6,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T2,T2_M1,T2_M1_A1,73,1,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A1,74,2,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A1,75,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A1,76,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A1,77,5,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A1,78,6,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A2,79,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A2,80,2,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A2,81,3,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A2,82,4,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A2,83,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A2,84,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A3,85,1,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A3,86,2,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A3,87,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A3,88,4,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A3,89,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M1,T2_M1_A3,90,6,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M2,T2_M2_A1,91,1,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A1,92,2,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A1,93,3,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A1,94,4,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A1,95,5,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A1,96,6,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A2,97,1,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A2,98,2,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A2,99,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A2,100,4,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A2,101,5,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A2,102,6,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A3,103,1,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with accountability.,1,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A3,104,2,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A3,105,3,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with accountability.,1,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A3,106,4,director,0,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with accountability.,1,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A3,107,5,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M2,T2_M2_A3,108,6,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T2,T2_M3,T2_M3_A1,109,1,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A1,110,2,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A1,111,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A1,112,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A1,113,5,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A1,114,6,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A2,115,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A2,116,2,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A2,117,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A2,118,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A2,119,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A2,120,6,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A3,121,1,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A3,122,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A3,123,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A3,124,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A3,125,5,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M3,T2_M3_A3,126,6,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A1,127,1,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A1,128,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A1,129,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A1,130,4,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A1,131,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A1,132,6,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A2,133,1,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A2,134,2,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A2,135,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A2,136,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A2,137,5,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A2,138,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A3,139,1,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A3,140,2,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A3,141,3,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A3,142,4,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A3,143,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T2,T2_M4,T2_M4_A3,144,6,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M1,T3_M1_A1,145,1,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with no accountability.,1,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A1,146,2,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A1,147,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A1,148,4,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A1,149,5,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A1,150,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A2,151,1,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A2,152,2,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A2,153,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A2,154,4,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A2,155,5,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A2,156,6,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A3,157,1,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A3,158,2,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A3,159,3,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A3,160,4,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with no accountability.,1,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A3,161,5,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M1,T3_M1_A3,162,6,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A1,163,1,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A1,164,2,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A1,165,3,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with no accountability.,1,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A1,166,4,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A1,167,5,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A1,168,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A2,169,1,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A2,170,2,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A2,171,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A2,172,4,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A2,173,5,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with no accountability.,1,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A2,174,6,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A3,175,1,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A3,176,2,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with no accountability.,1,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A3,177,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A3,178,4,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with no accountability.,1,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A3,179,5,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M2,T3_M2_A3,180,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A1,181,1,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A1,182,2,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A1,183,3,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A1,184,4,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A1,185,5,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A1,186,6,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A2,187,1,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A2,188,2,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A2,189,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A2,190,4,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A2,191,5,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A2,192,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A3,193,1,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A3,194,2,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A3,195,3,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A3,196,4,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A3,197,5,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M3,T3_M3_A3,198,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T3,T3_M4,T3_M4_A1,199,1,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A1,200,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A1,201,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A1,202,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A1,203,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A1,204,6,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A2,205,1,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A2,206,2,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A2,207,3,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A2,208,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A2,209,5,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A2,210,6,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A3,211,1,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A3,212,2,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A3,213,3,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A3,214,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A3,215,5,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T3,T3_M4,T3_M4_A3,216,6,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M1,T4_M1_A1,217,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A1,218,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A1,219,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A1,220,4,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A1,221,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A1,222,6,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A2,223,1,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A2,224,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A2,225,3,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A2,226,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A2,227,5,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A2,228,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A3,229,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A3,230,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A3,231,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A3,232,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A3,233,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M1,T4_M1_A3,234,6,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T4,T4_M2,T4_M2_A1,235,1,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A1,236,2,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A1,237,3,director,0,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A1,238,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A1,239,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A1,240,6,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A2,241,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A2,242,2,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A2,243,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A2,244,4,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A2,245,5,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A2,246,6,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A3,247,1,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A3,248,2,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A3,249,3,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A3,250,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A3,251,5,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M2,T4_M2_A3,252,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M3,T4_M3_A1,253,1,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A1,254,2,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A1,255,3,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under STATUS_QUO with accountability.,1,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A1,256,4,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A1,257,5,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A1,258,6,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A2,259,1,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A2,260,2,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A2,261,3,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A2,262,4,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A2,263,5,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A2,264,6,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A3,265,1,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A3,266,2,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A3,267,3,director,0,Synthetic utterance raising a concern about trade-offs and risks under STATUS_QUO with accountability.,1,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A3,268,4,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A3,269,5,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M3,T4_M3_A3,270,6,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T4,T4_M4,T4_M4_A1,271,1,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A1,272,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A1,273,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A1,274,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A1,275,5,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A1,276,6,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A2,277,1,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A2,278,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A2,279,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A2,280,4,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A2,281,5,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A2,282,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A3,283,1,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A3,284,2,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A3,285,3,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A3,286,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A3,287,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T4,T4_M4,T4_M4_A3,288,6,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T5,T5_M1,T5_M1_A1,289,1,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A1,290,2,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A1,291,3,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A1,292,4,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A1,293,5,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A1,294,6,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A2,295,1,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A2,296,2,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A2,297,3,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A2,298,4,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A2,299,5,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A2,300,6,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A3,301,1,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A3,302,2,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A3,303,3,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A3,304,4,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A3,305,5,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M1,T5_M1_A3,306,6,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T5,T5_M2,T5_M2_A1,307,1,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A1,308,2,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A1,309,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A1,310,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A1,311,5,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A1,312,6,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A2,313,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A2,314,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A2,315,3,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A2,316,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A2,317,5,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A2,318,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A3,319,1,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A3,320,2,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A3,321,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A3,322,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A3,323,5,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M2,T5_M2_A3,324,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M3,T5_M3_A1,325,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A1,326,2,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A1,327,3,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A1,328,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A1,329,5,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A1,330,6,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A2,331,1,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A2,332,2,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A2,333,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A2,334,4,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A2,335,5,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A2,336,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A3,337,1,senior_eng,0,Synthetic utterance raising a concern about trade-offs and risks under AI_FIRST with accountability.,1,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A3,338,2,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A3,339,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A3,340,4,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A3,341,5,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M3,T5_M3_A3,342,6,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with accountability.,0,1,AI_FIRST,1
+T5,T5_M4,T5_M4_A1,343,1,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A1,344,2,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A1,345,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A1,346,4,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A1,347,5,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A1,348,6,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A2,349,1,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A2,350,2,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A2,351,3,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A2,352,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A2,353,5,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A2,354,6,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A3,355,1,junior_pm,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A3,356,2,junior_eng,1,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A3,357,3,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A3,358,4,director,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A3,359,5,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T5,T5_M4,T5_M4_A3,360,6,senior_eng,0,Synthetic utterance offering neutral progress updates under AI_FIRST with no accountability.,0,1,AI_FIRST,0
+T6,T6_M1,T6_M1_A1,361,1,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A1,362,2,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A1,363,3,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A1,364,4,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A1,365,5,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A1,366,6,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A2,367,1,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A2,368,2,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A2,369,3,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A2,370,4,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A2,371,5,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A2,372,6,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A3,373,1,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A3,374,2,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A3,375,3,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A3,376,4,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A3,377,5,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M1,T6_M1_A3,378,6,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with no accountability.,0,0,STATUS_QUO,0
+T6,T6_M2,T6_M2_A1,379,1,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A1,380,2,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A1,381,3,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A1,382,4,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A1,383,5,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A1,384,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A2,385,1,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A2,386,2,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A2,387,3,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A2,388,4,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A2,389,5,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A2,390,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A3,391,1,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A3,392,2,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A3,393,3,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A3,394,4,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A3,395,5,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with no accountability.,1,0,HUMAN_FIRST,0
+T6,T6_M2,T6_M2_A3,396,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with no accountability.,0,0,HUMAN_FIRST,0
+T6,T6_M3,T6_M3_A1,397,1,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A1,398,2,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A1,399,3,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A1,400,4,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A1,401,5,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A1,402,6,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A2,403,1,junior_pm,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A2,404,2,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under STATUS_QUO with accountability.,1,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A2,405,3,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A2,406,4,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A2,407,5,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A2,408,6,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A3,409,1,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A3,410,2,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A3,411,3,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under STATUS_QUO with accountability.,1,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A3,412,4,senior_eng,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A3,413,5,director,0,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M3,T6_M3_A3,414,6,junior_eng,1,Synthetic utterance offering neutral progress updates under STATUS_QUO with accountability.,0,0,STATUS_QUO,1
+T6,T6_M4,T6_M4_A1,415,1,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A1,416,2,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A1,417,3,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A1,418,4,junior_eng,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with accountability.,1,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A1,419,5,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A1,420,6,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A2,421,1,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with accountability.,1,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A2,422,2,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A2,423,3,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A2,424,4,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A2,425,5,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A2,426,6,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A3,427,1,junior_pm,1,Synthetic utterance raising a concern about trade-offs and risks under HUMAN_FIRST with accountability.,1,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A3,428,2,senior_eng,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A3,429,3,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A3,430,4,director,0,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A3,431,5,junior_eng,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1
+T6,T6_M4,T6_M4_A3,432,6,junior_pm,1,Synthetic utterance offering neutral progress updates under HUMAN_FIRST with accountability.,0,0,HUMAN_FIRST,1

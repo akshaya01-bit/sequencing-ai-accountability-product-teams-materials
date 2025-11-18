@@ -4,7 +4,7 @@ Dep. Variable:      junior_talk_share   R-squared:                       0.415
 Model:                            OLS   Adj. R-squared:                  0.361
 Method:                 Least Squares   F-statistic:                     8.921
 Date:                Sun, 16 Nov 2025   Prob (F-statistic):           1.39e-10
-Time:                        18:59:11   Log-Likelihood:                 196.11
+Time:                        22:01:55   Log-Likelihood:                 196.11
 No. Observations:                 120   AIC:                            -370.2
 Df Residuals:                     109   BIC:                            -339.6
 Df Model:                          10                                         
